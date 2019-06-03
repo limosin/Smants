@@ -1,2 +1,2 @@
 # Smants
-Smart Air Monitoring System
+## Smart Air Monitoring System
